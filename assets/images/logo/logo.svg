@@ -7,6 +7,6 @@
   <!-- Fond blanc circulaire -->
   <circle cx="40" cy="40" r="40" fill="white"/>
   <!-- Logo Konde au centre avec clip circulaire -->
-  <image href="logo_konde.png" x="0" y="0" width="80" height="80" preserveAspectRatio="xMidYMid meet" clip-path="url(#circleClip)"/>
+  <image href="assets/images/logo/logo_konde.png" x="0" y="0" width="80" height="80" preserveAspectRatio="xMidYMid meet" clip-path="url(#circleClip)"/>
 </svg>
 
